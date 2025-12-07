@@ -1,5 +1,8 @@
 # 🧠 Applicant Intelligent Parser (Make.com Workflow)
 
+![Screenshot](make.com%20screenshot.png)
+
+
 This automation processes job applications submitted via Google Forms. It uses AI to extract and evaluate candidate information, score applicants based on suitability, and optionally routes top candidates through a human approval flow.
 
 Built with [Make.com](https://make.com), this workflow simulates a real-world HR automation pipeline using AI, conditional logic, and structured Google integrations.
